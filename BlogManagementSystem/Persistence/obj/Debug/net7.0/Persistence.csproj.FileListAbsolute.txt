@@ -1,0 +1,17 @@
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Contratcs.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\bin\Debug\net7.0\Contratcs.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\Persistence\obj\Debug\net7.0\ref\Persistence.dll

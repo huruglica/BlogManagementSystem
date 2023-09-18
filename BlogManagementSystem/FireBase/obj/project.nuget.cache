@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWWqQW3+rbUw7qotZ8s+VRKrWW4eAJezoygkUXjSnaA3Eo3CNLaspEchILgBgbbE6rI17HWv2T5kFAcMMc77Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\herol\\OneDrive\\Desktop\\ECommerce\\BlogManagementSystem\\FireBase\\FireBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\herol\\.nuget\\packages\\firebaseadmin\\2.4.0\\firebaseadmin.2.4.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\herol\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

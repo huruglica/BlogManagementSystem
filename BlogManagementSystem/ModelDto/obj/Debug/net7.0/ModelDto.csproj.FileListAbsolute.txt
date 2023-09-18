@@ -1,0 +1,15 @@
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\bin\Debug\net7.0\ModelDto.deps.json
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\bin\Debug\net7.0\ModelDto.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\bin\Debug\net7.0\ModelDto.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\bin\Debug\net7.0\Domain.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\bin\Debug\net7.0\Domain.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.csproj.AssemblyReference.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.AssemblyInfoInputs.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.AssemblyInfo.cs
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.csproj.CoreCompileInputs.cache
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.csproj.CopyComplete
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\refint\ModelDto.dll
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ModelDto.pdb
+C:\Users\herol\OneDrive\Desktop\ECommerce\BlogManagementSystem\ModelDto\obj\Debug\net7.0\ref\ModelDto.dll
